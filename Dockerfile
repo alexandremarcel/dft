@@ -1,2 +1,2 @@
 FROM microsoft/windowsservercore
-CMD echo Hello
+CMD echo test
